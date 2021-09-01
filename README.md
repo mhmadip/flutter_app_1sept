@@ -1,15 +1,15 @@
 # flutter_app_1sept
 
-A new Flutter application.
+This project is for today's Lecture 1 / 9 / 2021 at 9 am in Lab 208
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for teaching you applying these concepts in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- ColorSwatch
+- Gestures ( Tap , Drag and Scale)
+- OrientationBuilder for resposive design ( Landscape and Portrait)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
